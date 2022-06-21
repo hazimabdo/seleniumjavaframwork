@@ -1,0 +1,5 @@
+[TRACE] 2022-06-07 17:42:26.129 [main] Log4jdemo - this is trace message
+[INFO ] 2022-06-07 17:42:26.164 [main] Log4jdemo - this is information message
+[ERROR] 2022-06-07 17:42:26.166 [main] Log4jdemo - this is an error message
+[WARN ] 2022-06-07 17:42:26.167 [main] Log4jdemo - this is a warning  message
+[FATAL] 2022-06-07 17:42:26.168 [main] Log4jdemo - this is a fatal message
